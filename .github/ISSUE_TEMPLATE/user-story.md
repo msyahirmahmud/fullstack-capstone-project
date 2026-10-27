@@ -1,15 +1,6 @@
 ---
 name: User Story
-about: This is template defines a user story
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: Template for GiftLink user stories
+about: Template for creating user stories
 title: ''
 labels: new
 assignees: ''
